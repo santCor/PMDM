@@ -1,2 +1,2 @@
 # PMDM
-ejercicios de PMDM, desarrollo para android en java
+ejercicios de Programación de Dispositivos Móviles, desarrollo para android en java
