@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">El Prado</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rotulo_elixir_coleccion">Elixa unha colección...</string>
+    <string name="rotulo_ano_obra">Ano</string>
+    <string name="rotulo_separacion_autor_ano">", "</string>
+    <string name="mi_obra_marcar_favorito">Marcar como favorita</string>
+    <string name="im_engadir_comentario_obra">Engadir comentario</string>
+    <string name="im_autores">Ver autores</string>
+    <string name="title_activity_autor">Autores</string>
+    <string name="rotulo_nome_autor">Nome</string>
+    <string name="rotulo_lugar_nacemento_autor">Lugar nacemento</string>
+    <string name="rotulo_autor_conocido_como">Coñecido como</string>
+    <string name="rotulo_separacion_medidas_cadro">x</string>
+    <string name="rotulo_unidades_medidas_cadro">cm</string>
+    <string name="adBotonOk">OK</string>
+    <string name="dialogo_login_usuario_rotulo">Usuario</string>
+    <string name="dialogo_login_contrasinal_rotulo">Contrasinal</string>
+</resources>
